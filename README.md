@@ -1,2 +1,4 @@
-# Sinonimos-y-Antonimos-Word2Vec-
-Proyecto del curso Introducción al Procesamiento del Lenguaje Natural.  Se utilizó la API de Tweeter para recolectar tweets en un intervalo de tiempo, y con base en esto se realiza pre-procesamiento de texto, análisis de tópicos mediante matrices término-documento, Word2Vec y una interfaz gráfica.
+# Synonyms and Antonyms Word2Vec
+Course project Introduction to Natural Language Processing. The Tweeter API was used to collect tweets in a time interval, and based on this, text pre-processing, topic analysis using term-document matrices, Word2Vec and a graphical interface were performed.
+
+The notebook is in **spanish**.
